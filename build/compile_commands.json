@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/dogghoodie/Projects/Essentials/build",
+  "command": "/usr/bin/c++  -I/home/dogghoodie/Projects/Essentials/src/include -std=gnu++17 -o CMakeFiles/essentials.dir/src/cpp/main.cpp.o -c /home/dogghoodie/Projects/Essentials/src/cpp/main.cpp",
+  "file": "/home/dogghoodie/Projects/Essentials/src/cpp/main.cpp"
+},
+{
+  "directory": "/home/dogghoodie/Projects/Essentials/build",
+  "command": "/usr/bin/c++  -I/home/dogghoodie/Projects/Essentials/src/include -std=gnu++17 -o CMakeFiles/essentials.dir/src/cpp/interface.cpp.o -c /home/dogghoodie/Projects/Essentials/src/cpp/interface.cpp",
+  "file": "/home/dogghoodie/Projects/Essentials/src/cpp/interface.cpp"
+},
+{
+  "directory": "/home/dogghoodie/Projects/Essentials/build",
+  "command": "/usr/bin/c++  -I/home/dogghoodie/Projects/Essentials/src/include -std=gnu++17 -o CMakeFiles/essentials.dir/src/cpp/scripts.cpp.o -c /home/dogghoodie/Projects/Essentials/src/cpp/scripts.cpp",
+  "file": "/home/dogghoodie/Projects/Essentials/src/cpp/scripts.cpp"
+},
+{
+  "directory": "/home/dogghoodie/Projects/Essentials/build",
+  "command": "/usr/bin/c++  -I/home/dogghoodie/Projects/Essentials/src/include -std=gnu++17 -o CMakeFiles/essentials.dir/src/cpp/session.cpp.o -c /home/dogghoodie/Projects/Essentials/src/cpp/session.cpp",
+  "file": "/home/dogghoodie/Projects/Essentials/src/cpp/session.cpp"
+}
+]

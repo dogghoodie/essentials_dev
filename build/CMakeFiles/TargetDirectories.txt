@@ -1,0 +1,3 @@
+/home/dogghoodie/Projects/Essentials/build/CMakeFiles/essentials.dir
+/home/dogghoodie/Projects/Essentials/build/CMakeFiles/edit_cache.dir
+/home/dogghoodie/Projects/Essentials/build/CMakeFiles/rebuild_cache.dir

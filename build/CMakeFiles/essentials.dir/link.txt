@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/essentials.dir/src/cpp/main.cpp.o CMakeFiles/essentials.dir/src/cpp/interface.cpp.o CMakeFiles/essentials.dir/src/cpp/scripts.cpp.o CMakeFiles/essentials.dir/src/cpp/session.cpp.o -o ../bin/essentials  -lncurses 
